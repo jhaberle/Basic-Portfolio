@@ -1,0 +1,33 @@
+body {
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+}
+
+head {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5
+}
+
+title {
+    float: left;
+}
+
+.links {
+    float: right;
+}
+
+img {
+    float: left;
+}
+
+input {
+    width: 900px;
+}
+
+button {
+    color: white;
+    background-color: #4aaaa5;
+    width: 90px;
+    height: 30px;
+}
