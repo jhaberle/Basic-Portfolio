@@ -1,12 +1,13 @@
 body {
     background-color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
-    color: #777777;
+    color:Black;
 }
 
 head {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #4aaaa5
+    color: #4aaaa5;
+    padding-right: 5%;
 }
 
 title {
@@ -15,6 +16,7 @@ title {
 
 .links {
     float: right;
+    padding-right: 5%;
 }
 
 img {
@@ -30,4 +32,15 @@ button {
     background-color: #4aaaa5;
     width: 90px;
     height: 30px;
+}
+
+.parent {
+    width: 920px;
+
+}
+
+.child {
+    width: 920px;
+    text-align: left;
+    
 }
