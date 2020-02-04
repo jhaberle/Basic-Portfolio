@@ -69,8 +69,7 @@ h2 {
 .contact-info {
     position: absolute;
     bottom: 200px;
-    left: 150px;
-
+    left: 250px;
 }
 
 
@@ -93,19 +92,29 @@ button {
 }
 
 #contact-header {
-    margin-left: 100px;
+    margin-left: 200px;
     background-color: teal;
     width: 200px;
     height:50px;
     text-align: center;
     bottom: 75px;
-    left: 75px;
+    left: 200px;
     
 }
 
 #contact-background {
     position: relative;
-    height: 100%;
+    height: 449px;
     width: 920px;
     background-color: white;
+    bottom: 455px;
+    left: 200px;
+}
+
+#port-gallery {
+    width: 920px;
+    position: relative;
+    left: 190px;
+    bottom: 454px;
+
 }
